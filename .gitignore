@@ -14,4 +14,6 @@
 *.rsp
 *.sbr
 
+DS_store
+
 c#/lesson1/task/obj/
