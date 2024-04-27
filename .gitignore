@@ -14,4 +14,4 @@
 *.rsp
 *.sbr
 
-с#/lesson1/task1/obj
+obj/
