@@ -13,3 +13,5 @@
 *.pgd
 *.rsp
 *.sbr
+bin
+obj
