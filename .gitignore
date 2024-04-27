@@ -13,5 +13,5 @@
 *.pgd
 *.rsp
 *.sbr
-bin
-obj
+
+с#/lesson1/task1/obj
