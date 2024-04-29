@@ -13,3 +13,23 @@ while (i < n)
 }
 
 Console.WriteLine(max);
+
+max = array[0];
+for (int j = 0; j < n; j++) // j++ это тоже самое, что и j = j +1
+{
+    if (array[j] > max)
+    {
+        max = array[j];
+    }
+}
+Console.WriteLine(max);
+
+max = array[0];
+foreach (int e in array)
+{
+    if (e > max)
+    {
+        max = e;
+    }
+}
+Console.WriteLine(max);
