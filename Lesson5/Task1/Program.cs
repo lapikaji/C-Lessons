@@ -9,3 +9,5 @@
     return n * Fact(n - 1);
 }
 Console.WriteLine(Fact(5));
+
+// Комментарий
